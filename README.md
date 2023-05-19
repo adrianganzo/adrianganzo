@@ -1,11 +1,13 @@
-### Olá 👋
+## Olá! 👋
 
-- Muito Prazer, Meu nome é Adrian e seja muito bem vindo ao meu GitHub!
+Muito Prazer, Meu nome é Adrian e seja muito bem vindo ao meu GitHub, atualmente sou estudante da [Cubos Acabemy](https://cubos.academy/) no Curso de Desenvolvimento de Software Fullstack e tenho interesse em me especializar na área de **Front End**.
 
-- Tenho interesse em me especializar na área de Front End.
+Vocês podem me encontrar:
 
-- Sou estudante da Cubos Acabemy no Curso de Desenvolvimento de Software Fullstack.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-alvim-dos-reis-ganzo/)
 
-<!--
-**adrianganzo/adrianganzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## :desktop_computer: Hard Skill:
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianganzo&theme=transparent&custom_title=Top%20%Linguagens)
