@@ -8,6 +8,6 @@ Vocês podem me encontrar:
 
 ## :desktop_computer: Hard Skill:
 
-![javascript]([https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png))
+!([https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png))
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianganzo&theme=transparent&custom_title=Top%20%Linguagens)
