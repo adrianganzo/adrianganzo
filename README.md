@@ -8,6 +8,6 @@ Vocês podem me encontrar:
 
 ## :desktop_computer: Hard Skill:
 
-<div><img style="width: 30px; height: 30px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></div>
+<div><img style="width: 50px; height: 50px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></div>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianganzo&theme=transparent&custom_title=Top%20%Linguagens)
