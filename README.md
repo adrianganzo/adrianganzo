@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Muito Prazer, Meu nome é Adrian e seja muito bem vindo ao meu GitHub, atualmente sou estudante da [Cubos Acabemy](https://cubos.academy/) no Curso de Desenvolvimento de Software Fullstack e tenho interesse em me especializar na área de **Front End**.
+Muito Prazer, Meu nome é Adrian e seja muito bem vindo ao meu GitHub, atualmente sou estudante da [Cubos Academy](https://cubos.academy/) no Curso de Desenvolvimento de Software Fullstack e tenho interesse em me especializar na área de **Front End**.
 
 Vocês podem me encontrar:
 
