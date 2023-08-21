@@ -16,4 +16,4 @@ Vocês podem me encontrar:
   <img style="width: 50px; height: 50px;" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png">
 </div><br>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianganzo&theme=transparent&custom_title=Top%20%Linguagens)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianganzo)]
