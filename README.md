@@ -8,5 +8,5 @@ Vocês podem me encontrar:
 
 ## :desktop_computer: Hard Skill:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,postgres,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts)](https://skillicons.dev)
 
