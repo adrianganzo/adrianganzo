@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Fullstack]
+💻 Eu sou um Design UX/UI e Desenvolvedor [Front-End | Fullstack]
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
